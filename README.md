@@ -1,8 +1,17 @@
 # Git-front
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application needs a backend rails app:
 
+[git-back](https://github.com/diegomichel/git-back)
+
+## How to run
+* Start the rails application.
+* ember s --proxy http://localhost:3000
+* enjoy.
+
+## -------------------
+## README FROM EMBERJS
+## -------------------
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
